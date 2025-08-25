@@ -6,7 +6,7 @@
 
 ![architecture](./doc/assets/arch.png)
 
-感谢开源项目DeepWiki支持，同样可以查看 [Minik8sWiki](https://deepwiki.com/NytePlus/chfs) 获得更便捷的代码访问，同时支持项目问答
+感谢开源项目DeepWiki支持，同样可以查看 [Minik8sWiki](https://deepwiki.com/NytePlus/Minik8s) 获得更便捷的代码访问，同时支持项目问答
 
 ## Get Started
 
