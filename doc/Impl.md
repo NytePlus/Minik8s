@@ -471,5 +471,5 @@ sudo chown -R 1001:1001 /home/chenglianglin/actions-runner/_work/k8s_group_4/k8s
 
 ## hf下模型
 ```
-git clone https://NytePlus:REMOVED@huggingface.co/distilbert/distilgpt2
+git clone https://NytePlus:<your token>@huggingface.co/distilbert/distilgpt2
 ```
